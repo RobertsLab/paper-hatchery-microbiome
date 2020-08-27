@@ -1,0 +1,27 @@
+#Datasets	Library_Geoduck_MG_1_S3_L002_R1	Library_Geoduck_MG_2_S4_L002_R1	Library_Geoduck_MG_5_S6_L002_R1	Library_Geoduck_MG_3_S1_L002_R1	Library_Geoduck_MG_6_S5_L002_R1	Library_Geoduck_MG_7_S2_L002_R1
+"root;cellular organisms;Bacteria;FCB group;Bacteroidetes/Chlorobi group;Bacteroidetes;Bacteroidia;"	0.0	0.0	0.0	36336.0	0.0	0.0
+"root;cellular organisms;Bacteria;FCB group;Bacteroidetes/Chlorobi group;Bacteroidetes;Cytophagia;"	467555.0	1032802.0	1881963.0	1157035.0	723838.0	1199719.0
+"root;cellular organisms;Bacteria;FCB group;Bacteroidetes/Chlorobi group;Bacteroidetes;Flavobacteriia;"	5981452.0	3369833.0	3534924.0	4999852.0	6636729.0	5452670.0
+"root;cellular organisms;Bacteria;FCB group;Bacteroidetes/Chlorobi group;Bacteroidetes;Saprospiria;"	0.0	0.0	0.0	28755.0	0.0	0.0
+"root;cellular organisms;Bacteria;FCB group;Bacteroidetes/Chlorobi group;Bacteroidetes;Sphingobacteriia;"	0.0	0.0	0.0	27900.0	0.0	0.0
+"root;cellular organisms;Bacteria;Nitrospinae/Tectomicrobia group;Nitrospinae;Nitrospinia;"	0.0	0.0	0.0	0.0	0.0	101498.0
+"root;cellular organisms;Bacteria;Proteobacteria;Alphaproteobacteria;"	2.2723052E7	1.9211136E7	1.7057226E7	6032798.0	2.0984024E7	2.1177952E7
+"root;cellular organisms;Bacteria;Proteobacteria;Betaproteobacteria;"	1531667.0	1806017.0	1361823.0	842277.0	1853838.0	2737949.0
+"root;cellular organisms;Bacteria;Proteobacteria;delta/epsilon subdivisions;Deltaproteobacteria;"	1935417.0	2597510.0	3685248.0	394644.0	2123335.0	3335999.0
+"root;cellular organisms;Bacteria;Proteobacteria;delta/epsilon subdivisions;Epsilonproteobacteria;"	45327.0	42175.0	44827.0	0.0	56002.0	56049.0
+"root;cellular organisms;Bacteria;Proteobacteria;Gammaproteobacteria;"	1.6311882E7	1.0286463E7	8487544.0	3995287.0	2.2522914E7	2.083264E7
+"root;cellular organisms;Bacteria;Proteobacteria;Oligoflexia;"	286298.0	319440.0	83243.0	109239.0	255395.0	243599.0
+"root;cellular organisms;Bacteria;PVC group;Planctomycetes;Planctomycetia;"	63142.0	0.0	0.0	69037.0	0.0	0.0
+"root;cellular organisms;Bacteria;PVC group;Verrucomicrobia;Opitutae;"	114982.0	54026.0	0.0	25296.0	0.0	56433.0
+"root;cellular organisms;Bacteria;PVC group;Verrucomicrobia;Verrucomicrobiae;"	144112.0	77296.0	0.0	0.0	0.0	0.0
+"root;cellular organisms;Bacteria;Terrabacteria group;Actinobacteria <actinobacteria>;Acidimicrobiia;"	350301.0	495932.0	489950.0	61911.0	287315.0	448868.0
+"root;cellular organisms;Bacteria;Terrabacteria group;Actinobacteria <actinobacteria>;Actinobacteria;"	551588.0	695723.0	755279.0	1137900.0	541732.0	776784.0
+"root;cellular organisms;Bacteria;Terrabacteria group;Firmicutes;Bacilli;"	0.0	0.0	0.0	303089.0	0.0	0.0
+"root;cellular organisms;Archaea;Euryarchaeota;Diaforarchaea group;Candidatus Poseidoniia;"	505286.0	4910617.0	5960618.0	2557963.0	979282.0	3218202.0
+"root;cellular organisms;Eukaryota;Alveolata;Ciliophora;Intramacronucleata;Oligohymenophorea;"	0.0	0.0	0.0	43374.0	0.0	0.0
+"root;cellular organisms;Eukaryota;Alveolata;Ciliophora;Intramacronucleata;Spirotrichea;"	0.0	0.0	0.0	46476.0	0.0	0.0
+"root;cellular organisms;Eukaryota;Haptista;Haptophyta;"	848172.0	231657.0	0.0	41395.0	0.0	0.0
+"root;cellular organisms;Eukaryota;Opisthokonta;Metazoa;Eumetazoa;Bilateria;Deuterostomia;Chordata;Craniata;Vertebrata;Gnathostomata;Teleostomi;Euteleostomi;Sarcopterygii;Dipnotetrapodomorpha;Tetrapoda;Amniota;Mammalia;"	0.0	0.0	0.0	105836.0	0.0	0.0
+"root;cellular organisms;Eukaryota;Opisthokonta;Metazoa;Eumetazoa;Bilateria;Protostomia;Lophotrochozoa;Mollusca;Bivalvia;"	0.0	510210.0	0.0	4889604.0	0.0	0.0
+"root;cellular organisms;Eukaryota;Stramenopiles;Eustigmatophyceae;"	139503.0	0.0	0.0	104525.0	0.0	0.0
+"root;cellular organisms;Eukaryota;Viridiplantae;Chlorophyta;Mamiellophyceae;"	61399.0	58643.0	0.0	0.0	0.0	0.0
