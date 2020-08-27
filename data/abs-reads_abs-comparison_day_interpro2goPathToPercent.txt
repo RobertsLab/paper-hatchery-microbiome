@@ -1,0 +1,63 @@
+#Datasets	 Day:8	 Day:12	 Day:5	 Day:1
+"InterPro2GO;GO:0008150 biological_process;"	17.899441	17.848091	17.801840	17.745461
+"InterPro2GO;GO:0008150 biological_process;GO:0071973 bacterial-type flagellum-dependent cell motility;"	0.061877	0.058378	0.049361	0.054820
+"InterPro2GO;GO:0008150 biological_process;GO:0007155 cell adhesion;"	0.012614	0.011743	0.012853	0.019370
+"InterPro2GO;GO:0008150 biological_process;GO:0045454 cell redox homeostasis;"	0.061173	0.067319	0.069243	0.047546
+"InterPro2GO;GO:0008150 biological_process;GO:0071840 cellular component organization or biogenesis;"	0.685880	0.684134	0.699647	0.662363
+"InterPro2GO;GO:0008150 biological_process;GO:0006259 DNA metabolic process;"	0.872699	0.866186	0.848796	0.988379
+"InterPro2GO;GO:0008150 biological_process;GO:0016226 iron-sulfur cluster assembly;"	0.052318	0.053997	0.059271	0.053204
+"InterPro2GO;GO:0008150 biological_process;GO:0008152 metabolic process;"	12.198921	12.251172	12.361544	11.601152
+"InterPro2GO;GO:0008150 biological_process;GO:0009405 pathogenesis;"	0.020008	0.019025	0.015942	0.026039
+"InterPro2GO;GO:0008150 biological_process;GO:0006457 protein folding;"	0.130214	0.124657	0.119954	0.142212
+"InterPro2GO;GO:0008150 biological_process;GO:0009372 quorum sensing;"	0.002252	0.001589	0.001785	0.007265
+"InterPro2GO;GO:0008150 biological_process;GO:0019222 regulation of metabolic process;"	0.541969	0.525368	0.497779	0.580930
+"InterPro2GO;GO:0008150 biological_process;GO:0006808 regulation of nitrogen utilization;"	0.025521	0.023818	0.017638	0.019426
+"InterPro2GO;GO:0008150 biological_process;GO:0009628 response to abiotic stimulus;"	0.044264	0.042427	0.041025	0.042642
+"InterPro2GO;GO:0008150 biological_process;GO:0009607 response to biotic stimulus;"	0.006083	0.006163	0.005438	0.010755
+"InterPro2GO;GO:0008150 biological_process;GO:0042221 response to chemical;"	0.040956	0.039337	0.037969	0.056965
+"InterPro2GO;GO:0008150 biological_process;GO:0006950 response to stress;"	0.634145	0.630203	0.624794	0.694681
+"InterPro2GO;GO:0008150 biological_process;GO:0016070 RNA metabolic process;"	1.524089	1.554721	1.539629	1.474351
+"InterPro2GO;GO:0008150 biological_process;GO:0007165 signal transduction;"	0.174181	0.170880	0.187796	0.221461
+"InterPro2GO;GO:0008150 biological_process;GO:0043934 sporulation;"	0.004225	0.003513	0.004352	0.004389
+"InterPro2GO;GO:0008150 biological_process;GO:0006810 transport;"	2.744527	2.681681	2.551644	2.805168
+"InterPro2GO;GO:0008150 biological_process;GO:0046718 viral entry into host cell;"	0.000217	0.000360	0.000472	0.000717
+"InterPro2GO;GO:0008150 biological_process;GO:0016032 viral process;"	0.150796	0.148646	0.178761	0.221937
+"InterPro2GO;GO:0005575 cellular_component;"	7.082594	7.049133	7.145471	7.506991
+"InterPro2GO;GO:0005575 cellular_component;GO:0009288 bacterial-type flagellum;"	0.014965	0.012476	0.011394	0.012550
+"InterPro2GO;GO:0005575 cellular_component;GO:1902494 catalytic complex;"	0.669437	0.680167	0.733384	0.624717
+"InterPro2GO;GO:0005575 cellular_component;GO:0005618 cell wall;"	0.004995	0.004320	0.003638	0.009108
+"InterPro2GO;GO:0005575 cellular_component;GO:0005694 chromosome;"	0.049696	0.047952	0.047318	0.053366
+"InterPro2GO;GO:0005575 cellular_component;GO:0009346 citrate lyase complex;"	0.000140	0.000136	0.000175	0.000966
+"InterPro2GO;GO:0005575 cellular_component;GO:0005737 cytoplasm;"	0.727969	0.739308	0.724867	0.645491
+"InterPro2GO;GO:0005575 cellular_component;GO:0005576 extracellular region;"	0.027184	0.028989	0.028296	0.038175
+"InterPro2GO;GO:0005575 cellular_component;GO:0005727 extrachromosomal circular DNA;"	0.000306	0.000059	0.000055	0.000333
+"InterPro2GO;GO:0005575 cellular_component;GO:0019898 extrinsic component of membrane;"	0.005338	0.005327	0.006788	0.005187
+"InterPro2GO;GO:0005575 cellular_component;GO:0031224 intrinsic component of membrane;"	1.966486	1.955336	2.006611	2.423164
+"InterPro2GO;GO:0005575 cellular_component;GO:0016020 membrane;"	1.941076	1.916094	1.874076	1.948056
+"InterPro2GO;GO:0005575 cellular_component;GO:0098796 membrane protein complex;"	0.480494	0.440009	0.417789	0.483196
+"InterPro2GO;GO:0005575 cellular_component;GO:0005874 microtubule;"	0.012845	0.009035	0.009040	0.023263
+"InterPro2GO;GO:0005575 cellular_component;GO:0005634 nucleus;"	0.035381	0.026724	0.023837	0.064715
+"InterPro2GO;GO:0005575 cellular_component;GO:0042597 periplasmic space;"	0.068392	0.066901	0.055759	0.066323
+"InterPro2GO;GO:0005575 cellular_component;GO:0005839 proteasome core complex;"	0.038842	0.049735	0.051706	0.025809
+"InterPro2GO;GO:0005575 cellular_component;GO:0005840 ribosome;"	0.828626	0.842981	0.882690	0.725316
+"InterPro2GO;GO:0005575 cellular_component;GO:0048500 signal recognition particle;"	0.024524	0.028052	0.034180	0.028952
+"InterPro2GO;GO:0005575 cellular_component;GO:0009579 thylakoid;"	0.017339	0.008386	0.005507	0.019465
+"InterPro2GO;GO:0005575 cellular_component;GO:0019012 virion;"	0.000788	0.000968	0.001338	0.005725
+"InterPro2GO;GO:0003674 molecular_function;"	19.049194	19.109190	19.063633	18.876247
+"InterPro2GO;GO:0003674 molecular_function;GO:0016209 antioxidant activity;"	0.050933	0.055595	0.059894	0.053873
+"InterPro2GO;GO:0003674 molecular_function;GO:0030246 carbohydrate binding;"	0.014366	0.011326	0.010057	0.013533
+"InterPro2GO;GO:0003674 molecular_function;GO:0003824 catalytic activity;"	14.079563	14.176418	14.111681	13.694342
+"InterPro2GO;GO:0003674 molecular_function;GO:0050662 coenzyme binding;"	0.794638	0.796933	0.797469	0.640449
+"InterPro2GO;GO:0003674 molecular_function;GO:0003700 DNA-binding transcription factor activity;"	0.234343	0.220081	0.190003	0.241635
+"InterPro2GO;GO:0003674 molecular_function;GO:0043167 ion binding;"	4.021084	4.038551	3.946962	3.758910
+"InterPro2GO;GO:0003674 molecular_function;GO:0051536 iron-sulfur cluster binding;"	0.314292	0.323702	0.328440	0.276121
+"InterPro2GO;GO:0003674 molecular_function;GO:0003676 nucleic acid binding;"	1.877231	1.906117	1.926450	2.057491
+"InterPro2GO;GO:0003674 molecular_function;GO:0000166 nucleotide binding;"	3.141268	3.140850	3.109421	2.937242
+"InterPro2GO;GO:0003674 molecular_function;GO:0004601 peroxidase activity;"	0.060594	0.061387	0.064424	0.066328
+"InterPro2GO;GO:0003674 molecular_function;GO:0005515 protein binding;"	0.223892	0.212350	0.219872	0.249037
+"InterPro2GO;GO:0003674 molecular_function;GO:0030170 pyridoxal phosphate binding;"	0.251883	0.246483	0.228051	0.243279
+"InterPro2GO;GO:0003674 molecular_function;GO:0038023 signaling receptor activity;"	0.135509	0.140861	0.165139	0.163566
+"InterPro2GO;GO:0003674 molecular_function;GO:0003735 structural constituent of ribosome;"	0.916768	0.928141	0.983217	0.801326
+"InterPro2GO;GO:0003674 molecular_function;GO:0046906 tetrapyrrole binding;"	0.680287	0.681724	0.753353	1.035037
+"InterPro2GO;GO:0003674 molecular_function;GO:0005215 transporter activity;"	2.064730	2.017733	2.043677	2.523468
+"InterPro2GO;GO:0003674 molecular_function;GO:0019842 vitamin binding;"	0.203646	0.207073	0.206815	0.176035

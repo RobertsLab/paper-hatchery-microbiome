@@ -1,0 +1,27 @@
+#Datasets	pH:8.2	pH:7.1
+"root;cellular organisms;Bacteria;FCB group;Bacteroidetes/Chlorobi group;Bacteroidetes;Bacteroidia;"	0.0	36336.0
+"root;cellular organisms;Bacteria;FCB group;Bacteroidetes/Chlorobi group;Bacteroidetes;Cytophagia;"	3382320.0	3080592.0
+"root;cellular organisms;Bacteria;FCB group;Bacteroidetes/Chlorobi group;Bacteroidetes;Flavobacteriia;"	1.2886209E7	1.7089252E7
+"root;cellular organisms;Bacteria;FCB group;Bacteroidetes/Chlorobi group;Bacteroidetes;Saprospiria;"	0.0	28755.0
+"root;cellular organisms;Bacteria;FCB group;Bacteroidetes/Chlorobi group;Bacteroidetes;Sphingobacteriia;"	0.0	27900.0
+"root;cellular organisms;Bacteria;Nitrospinae/Tectomicrobia group;Nitrospinae;Nitrospinia;"	0.0	101498.0
+"root;cellular organisms;Bacteria;Proteobacteria;Alphaproteobacteria;"	5.899142E7	4.8194772E7
+"root;cellular organisms;Bacteria;Proteobacteria;Betaproteobacteria;"	4699507.0	5434064.0
+"root;cellular organisms;Bacteria;Proteobacteria;delta/epsilon subdivisions;Deltaproteobacteria;"	8218175.0	5853978.0
+"root;cellular organisms;Bacteria;Proteobacteria;delta/epsilon subdivisions;Epsilonproteobacteria;"	132329.0	112051.0
+"root;cellular organisms;Bacteria;Proteobacteria;Gammaproteobacteria;"	3.5085888E7	4.7350844E7
+"root;cellular organisms;Bacteria;Proteobacteria;Oligoflexia;"	688981.0	608233.0
+"root;cellular organisms;Bacteria;PVC group;Planctomycetes;Planctomycetia;"	63142.0	69037.0
+"root;cellular organisms;Bacteria;PVC group;Verrucomicrobia;Opitutae;"	169008.0	81729.0
+"root;cellular organisms;Bacteria;PVC group;Verrucomicrobia;Verrucomicrobiae;"	221408.0	0.0
+"root;cellular organisms;Bacteria;Terrabacteria group;Actinobacteria <actinobacteria>;Acidimicrobiia;"	1336183.0	798094.0
+"root;cellular organisms;Bacteria;Terrabacteria group;Actinobacteria <actinobacteria>;Actinobacteria;"	2002590.0	2456416.0
+"root;cellular organisms;Bacteria;Terrabacteria group;Firmicutes;Bacilli;"	0.0	303089.0
+"root;cellular organisms;Archaea;Euryarchaeota;Diaforarchaea group;Candidatus Poseidoniia;"	1.1376521E7	6755447.0
+"root;cellular organisms;Eukaryota;Alveolata;Ciliophora;Intramacronucleata;Oligohymenophorea;"	0.0	43374.0
+"root;cellular organisms;Eukaryota;Alveolata;Ciliophora;Intramacronucleata;Spirotrichea;"	0.0	46476.0
+"root;cellular organisms;Eukaryota;Haptista;Haptophyta;"	1079829.0	41395.0
+"root;cellular organisms;Eukaryota;Opisthokonta;Metazoa;Eumetazoa;Bilateria;Deuterostomia;Chordata;Craniata;Vertebrata;Gnathostomata;Teleostomi;Euteleostomi;Sarcopterygii;Dipnotetrapodomorpha;Tetrapoda;Amniota;Mammalia;"	0.0	105836.0
+"root;cellular organisms;Eukaryota;Opisthokonta;Metazoa;Eumetazoa;Bilateria;Protostomia;Lophotrochozoa;Mollusca;Bivalvia;"	510210.0	4889604.0
+"root;cellular organisms;Eukaryota;Stramenopiles;Eustigmatophyceae;"	139503.0	104525.0
+"root;cellular organisms;Eukaryota;Viridiplantae;Chlorophyta;Mamiellophyceae;"	120042.0	0.0

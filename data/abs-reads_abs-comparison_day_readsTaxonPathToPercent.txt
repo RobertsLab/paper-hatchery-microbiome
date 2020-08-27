@@ -1,0 +1,27 @@
+#Datasets	 Day:8	 Day:12	 Day:5	 Day:1
+"root;cellular organisms;Bacteria;FCB group;Bacteroidetes/Chlorobi group;Bacteroidetes;Bacteroidia;"	0.000000	0.000000	0.000000	0.134525
+"root;cellular organisms;Bacteria;FCB group;Bacteroidetes/Chlorobi group;Bacteroidetes;Cytophagia;"	1.092765	2.119391	4.342058	4.283645
+"root;cellular organisms;Bacteria;FCB group;Bacteroidetes/Chlorobi group;Bacteroidetes;Flavobacteriia;"	11.573601	8.375436	8.155764	18.510752
+"root;cellular organisms;Bacteria;FCB group;Bacteroidetes/Chlorobi group;Bacteroidetes;Saprospiria;"	0.000000	0.000000	0.000000	0.106458
+"root;cellular organisms;Bacteria;FCB group;Bacteroidetes/Chlorobi group;Bacteroidetes;Sphingobacteriia;"	0.000000	0.000000	0.000000	0.103293
+"root;cellular organisms;Bacteria;Nitrospinae/Tectomicrobia group;Nitrospinae;Nitrospinia;"	0.000000	0.096355	0.000000	0.000000
+"root;cellular organisms;Bacteria;Proteobacteria;Alphaproteobacteria;"	40.088837	38.342434	39.354370	22.334988
+"root;cellular organisms;Bacteria;Proteobacteria;Betaproteobacteria;"	3.105240	4.313707	3.141993	3.118329
+"root;cellular organisms;Bacteria;Proteobacteria;delta/epsilon subdivisions;Deltaproteobacteria;"	3.722753	5.632838	8.502591	1.461075
+"root;cellular organisms;Bacteria;Proteobacteria;delta/epsilon subdivisions;Epsilonproteobacteria;"	0.092941	0.093247	0.103425	0.000000
+"root;cellular organisms;Bacteria;Proteobacteria;Gammaproteobacteria;"	35.619907	29.542191	19.582430	14.791592
+"root;cellular organisms;Bacteria;Proteobacteria;Oligoflexia;"	0.496850	0.534508	0.192058	0.404431
+"root;cellular organisms;Bacteria;PVC group;Planctomycetes;Planctomycetia;"	0.057915	0.000000	0.000000	0.255593
+"root;cellular organisms;Bacteria;PVC group;Verrucomicrobia;Opitutae;"	0.105463	0.104862	0.000000	0.093652
+"root;cellular organisms;Bacteria;PVC group;Verrucomicrobia;Verrucomicrobiae;"	0.132182	0.073379	0.000000	0.000000
+"root;cellular organisms;Bacteria;Terrabacteria group;Actinobacteria <actinobacteria>;Acidimicrobiia;"	0.584832	0.896924	1.130411	0.229211
+"root;cellular organisms;Bacteria;Terrabacteria group;Actinobacteria <actinobacteria>;Actinobacteria;"	1.002811	1.397890	1.742577	4.212802
+"root;cellular organisms;Bacteria;Terrabacteria group;Firmicutes;Bacilli;"	0.000000	0.000000	0.000000	1.122114
+"root;cellular organisms;Archaea;Euryarchaeota;Diaforarchaea group;Candidatus Poseidoniia;"	1.361670	7.716904	13.752316	9.470244
+"root;cellular organisms;Eukaryota;Alveolata;Ciliophora;Intramacronucleata;Oligohymenophorea;"	0.000000	0.000000	0.000000	0.160582
+"root;cellular organisms;Eukaryota;Alveolata;Ciliophora;Intramacronucleata;Spirotrichea;"	0.000000	0.000000	0.000000	0.172066
+"root;cellular organisms;Eukaryota;Haptista;Haptophyta;"	0.777957	0.219918	0.000000	0.153255
+"root;cellular organisms;Eukaryota;Opisthokonta;Metazoa;Eumetazoa;Bilateria;Deuterostomia;Chordata;Craniata;Vertebrata;Gnathostomata;Teleostomi;Euteleostomi;Sarcopterygii;Dipnotetrapodomorpha;Tetrapoda;Amniota;Mammalia;"	0.000000	0.000000	0.000000	0.391832
+"root;cellular organisms;Eukaryota;Opisthokonta;Metazoa;Eumetazoa;Bilateria;Protostomia;Lophotrochozoa;Mollusca;Bivalvia;"	0.000000	0.484356	0.000000	18.102585
+"root;cellular organisms;Eukaryota;Stramenopiles;Eustigmatophyceae;"	0.127954	0.000000	0.000000	0.386979
+"root;cellular organisms;Eukaryota;Viridiplantae;Chlorophyta;Mamiellophyceae;"	0.056316	0.055671	0.000000	0.000000

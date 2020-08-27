@@ -1,0 +1,207 @@
+Version   MEGAN Community Edition (version 6.18.0, built 28 Oct 2019)
+Copyright (C) 2019 Daniel H. Huson. This program comes with ABSOLUTELY NO WARRANTY.
+This is free software, licensed under the terms of the GNU General Public License, Version 3.
+Sources available at: https://github.com/danielhuson/megan-ce
+Java version: 11.0.7
+
+Opening startup files
+Loading ncbi.map: 2,175,506
+Loading ncbi.tre: 2,175,510
+Induced tree has 2,175,510 of 2,175,510 nodes
+Executing: add file='/home/samb/data/metagenomics/Library_Geoduck_MG_1_S3_L002_R1.rma6';add file='/home/samb/data/metagenomics/Library_Geoduck_MG_2_S4_L002_R1.rma6';add file='/home/samb/data/metagenomics/Library_Geoduck_MG_3_S1_L002_R1.rma6';add file='/home/samb/data/metagenomics/Library_Geoduck_MG_5_S6_L002_R1.rma6';add file='/home/samb/data/metagenomics/Library_Geoduck_MG_6_S5_L002_R1.rma6';add file='/home/samb/data/metagenomics/Library_Geoduck_MG_7_S2_L002_R1.rma6';
+Loading MEGAN File: Library_Geoduck_MG_1_S3_L002_R1.rma6
+Loading MEGAN File: Library_Geoduck_MG_2_S4_L002_R1.rma6
+Loading MEGAN File: Library_Geoduck_MG_3_S1_L002_R1.rma6
+Loading MEGAN File: Library_Geoduck_MG_5_S6_L002_R1.rma6
+Loading MEGAN File: Library_Geoduck_MG_6_S5_L002_R1.rma6
+Loading MEGAN File: Library_Geoduck_MG_7_S2_L002_R1.rma6
+Induced tree has 2,175,510 of 2,175,510 nodes
+Executing: set mode=ABSOLUTE;
+Executing: apply;
+Selected: 6
+Executing: compare mode=ABSOLUTE readAssignmentMode=readCount keep1=false ignoreUnassigned=false meganFile='/home/samb/data/metagenomics/Library_Geoduck_MG_1_S3_L002_R1.rma6', '/home/samb/data/metagenomics/Library_Geoduck_MG_2_S4_L002_R1.rma6', '/home/samb/data/metagenomics/Library_Geoduck_MG_3_S1_L002_R1.rma6', '/home/samb/data/metagenomics/Library_Geoduck_MG_5_S6_L002_R1.rma6', '/home/samb/data/metagenomics/Library_Geoduck_MG_6_S5_L002_R1.rma6', '/home/samb/data/metagenomics/Library_Geoduck_MG_7_S2_L002_R1.rma6';
+Executing: open file='/home/samb/data/metagenomics/Library_Geoduck_MG_1_S3_L002_R1.rma6' readOnly=true;update;
+Loading MEGAN File: Library_Geoduck_MG_1_S3_L002_R1.rma6
+Info: Opened file 'Library_Geoduck_MG_1_S3_L002_R1.rma6' with 78,338,406 reads
+updating viewer
+Induced tree has 371 of 2,175,510 nodes
+Induced tree has 371 of 2,175,510 nodes
+Executing: open file='/home/samb/data/metagenomics/Library_Geoduck_MG_2_S4_L002_R1.rma6' readOnly=true;update;
+Loading MEGAN File: Library_Geoduck_MG_2_S4_L002_R1.rma6
+Opened file '/home/samb/data/metagenomics/Library_Geoduck_MG_2_S4_L002_R1.rma6' with 80,708,846 reads
+updating viewer
+Induced tree has 319 of 2,175,510 nodes
+Induced tree has 319 of 2,175,510 nodes
+Executing: open file='/home/samb/data/metagenomics/Library_Geoduck_MG_3_S1_L002_R1.rma6' readOnly=true;update;
+Loading MEGAN File: Library_Geoduck_MG_3_S1_L002_R1.rma6
+Opened file '/home/samb/data/metagenomics/Library_Geoduck_MG_3_S1_L002_R1.rma6' with 41,066,115 reads
+updating viewer
+Induced tree has 398 of 2,175,510 nodes
+Induced tree has 398 of 2,175,510 nodes
+Executing: open file='/home/samb/data/metagenomics/Library_Geoduck_MG_5_S6_L002_R1.rma6' readOnly=true;update;
+Loading MEGAN File: Library_Geoduck_MG_5_S6_L002_R1.rma6
+Opened file '/home/samb/data/metagenomics/Library_Geoduck_MG_5_S6_L002_R1.rma6' with 80,636,117 reads
+updating viewer
+Induced tree has 253 of 2,175,510 nodes
+Induced tree has 253 of 2,175,510 nodes
+Executing: open file='/home/samb/data/metagenomics/Library_Geoduck_MG_6_S5_L002_R1.rma6' readOnly=true;update;
+Loading MEGAN File: Library_Geoduck_MG_6_S5_L002_R1.rma6
+Opened file '/home/samb/data/metagenomics/Library_Geoduck_MG_6_S5_L002_R1.rma6' with 83,337,226 reads
+updating viewer
+Induced tree has 284 of 2,175,510 nodes
+Induced tree has 284 of 2,175,510 nodes
+Executing: open file='/home/samb/data/metagenomics/Library_Geoduck_MG_7_S2_L002_R1.rma6' readOnly=true;update;
+Loading MEGAN File: Library_Geoduck_MG_7_S2_L002_R1.rma6
+Opened file '/home/samb/data/metagenomics/Library_Geoduck_MG_7_S2_L002_R1.rma6' with 101,937,343 reads
+updating viewer
+Induced tree has 281 of 2,175,510 nodes
+Induced tree has 281 of 2,175,510 nodes
+Computing comparison: 
+Total assigned:  466,024,048
+Induced tree has 585 of 2,175,510 nodes
+Induced tree has 585 of 2,175,510 nodes
+Executing: show window=samplesViewer;
+Executing: new attribute='pH' position=6;
+Executing: new attribute='Day' position=6;
+Executing: show window=samplesViewer;
+Executing: move sample= 'Library_Geoduck_MG_3_S1_L002_R1' direction=down;
+Executing: update reinduce=true;select samples name='Library_Geoduck_MG_3_S1_L002_R1';
+Selected 1 rows
+Executing: colorBy attribute='pH';
+Induced tree has 585 of 2,175,510 nodes
+Induced tree has 585 of 2,175,510 nodes
+Executing: shapeBy attribute='Day';
+Executing: set nodeShape=Oval sample= 'Library_Geoduck_MG_2_S4_L002_R1' 'Library_Geoduck_MG_7_S2_L002_R1';set nodeShape=Diamond sample= 'Library_Geoduck_MG_3_S1_L002_R1';set nodeShape=Triangle sample= 'Library_Geoduck_MG_5_S6_L002_R1';set nodeShape=Rectangle sample= 'Library_Geoduck_MG_1_S3_L002_R1' 'Library_Geoduck_MG_6_S5_L002_R1';
+Executing: open viewer=INTERPRO2GO;
+Loading interpro2go.map:    13,501
+Loading interpro2go.tre:    29,204
+Induced tree has 25,735 of 29,204 nodes
+Induced tree has 25,735 of 29,204 nodes
+Executing: uncollapse nodes=selected;
+Induced tree has 25,735 of 29,204 nodes
+Induced tree has 25,735 of 29,204 nodes
+Executing: uncollapse nodes=selected;
+Induced tree has 25,735 of 29,204 nodes
+Induced tree has 25,735 of 29,204 nodes
+Executing: uncollapse nodes=selected;
+Induced tree has 25,735 of 29,204 nodes
+Induced tree has 25,735 of 29,204 nodes
+Executing: export what=CSV format=interpro2goName_to_count separator=tab counts=assigned file='/home/samb/analyses/20200618_metagenomics_megan_tables/abs-reads_abs-comparison_NameToCount.txt';
+Info: Wrote 62 line(s) to file: /home/samb/analyses/20200618_metagenomics_megan_tables/abs-reads_abs-comparison_NameToCount.txt
+Executing: export what=CSV format=interpro2goPath_to_count separator=tab counts=assigned file='/home/samb/analyses/20200618_metagenomics_megan_tables/abs-reads_abs-comparison_interpro2goPathToCount.txt';
+Info: Wrote 62 line(s) to file: /home/samb/analyses/20200618_metagenomics_megan_tables/abs-reads_abs-comparison_interpro2goPathToCount.txt
+Executing: export what=CSV format=interpro2goName_to_percent separator=tab counts=assigned file='/home/samb/analyses/20200618_metagenomics_megan_tables/abs-reads_abs-comparison_pH_interpro2goNameToPercent.txt';
+Info: Wrote 62 line(s) to file: /home/samb/analyses/20200618_metagenomics_megan_tables/abs-reads_abs-comparison_pH_interpro2goNameToPercent.txt
+Executing: export what=CSV format=interpro2goPath_to_percent separator=tab counts=assigned file='/home/samb/analyses/20200618_metagenomics_megan_tables/abs-reads_abs-comparison_pH_interpro2goPathToPercent.txt';
+Info: Wrote 62 line(s) to file: /home/samb/analyses/20200618_metagenomics_megan_tables/abs-reads_abs-comparison_pH_interpro2goPathToPercent.txt
+Executing: save file='/home/samb/analyses/20200618_metagenomics_megan_tables/abs-reads_abs-comparison_pH.megan' summary=true;
+done
+Executing: compareBy attribute='Day' mode=absolute samples='Library_Geoduck_MG_1_S3_L002_R1' 'Library_Geoduck_MG_2_S4_L002_R1' 'Library_Geoduck_MG_5_S6_L002_R1' 'Library_Geoduck_MG_3_S1_L002_R1' 'Library_Geoduck_MG_6_S5_L002_R1' 'Library_Geoduck_MG_7_S2_L002_R1';
+Loading seed.map:    13,662
+Loading seed.tre:    21,085
+Loading eggnog.map:    30,875
+Loading eggnog.tre:    30,986
+Info: Wrote 463,244,224 reads to file '/home/samb/analyses/20200618_metagenomics_megan_tables/abs-reads_abs-comparison_pH-Day.megan'
+Executing: update reprocess=true reinduce=true;
+Induced tree has 584 of 2,175,510 nodes
+Induced tree has 584 of 2,175,510 nodes
+Executing: open viewer=INTERPRO2GO;
+Induced tree has 25,734 of 29,204 nodes
+Induced tree has 25,734 of 29,204 nodes
+Executing: uncollapse nodes=selected;
+Induced tree has 25,734 of 29,204 nodes
+Induced tree has 25,734 of 29,204 nodes
+Executing: uncollapse nodes=selected;
+Induced tree has 25,734 of 29,204 nodes
+Induced tree has 25,734 of 29,204 nodes
+Executing: uncollapse nodes=selected;
+Induced tree has 25,734 of 29,204 nodes
+Induced tree has 25,734 of 29,204 nodes
+Executing: export what=CSV format=interpro2goName_to_count separator=tab counts=assigned file='/home/samb/analyses/20200618_metagenomics_megan_tables/abs-reads_abs-comparison_day_interpro2goNameToCount.txt';
+Info: Wrote 62 line(s) to file: /home/samb/analyses/20200618_metagenomics_megan_tables/abs-reads_abs-comparison_day_interpro2goNameToCount.txt
+Executing: export what=CSV format=interpro2goPath_to_count separator=tab counts=assigned file='/home/samb/analyses/20200618_metagenomics_megan_tables/abs-reads_abs-comparison_day_interpro2goPathToCount.txt';
+Info: Wrote 62 line(s) to file: /home/samb/analyses/20200618_metagenomics_megan_tables/abs-reads_abs-comparison_day_interpro2goPathToCount.txt
+Executing: export what=CSV format=interpro2goName_to_percent separator=tab counts=assigned file='/home/samb/analyses/20200618_metagenomics_megan_tables/abs-reads_abs-comparison_day_interpro2goNameToPercent.txt';
+Info: Wrote 62 line(s) to file: /home/samb/analyses/20200618_metagenomics_megan_tables/abs-reads_abs-comparison_day_interpro2goNameToPercent.txt
+Executing: export what=CSV format=interpro2goPath_to_percent separator=tab counts=assigned file='/home/samb/analyses/20200618_metagenomics_megan_tables/abs-reads_abs-comparison_day_interpro2goPathToPercent.txt';
+Info: Wrote 62 line(s) to file: /home/samb/analyses/20200618_metagenomics_megan_tables/abs-reads_abs-comparison_day_interpro2goPathToPercent.txt
+Executing: show window=mainViewer;
+Executing: collapse rank='Class';select rank='Class';
+Induced tree has 584 of 2,175,510 nodes
+Induced tree has 584 of 2,175,510 nodes
+Executing: collapse nodes=selected;
+Induced tree has 584 of 2,175,510 nodes
+Induced tree has 584 of 2,175,510 nodes
+Executing: collapse nodes=top;
+Induced tree has 584 of 2,175,510 nodes
+Induced tree has 584 of 2,175,510 nodes
+Executing: uncollapse nodes=selected;
+Induced tree has 584 of 2,175,510 nodes
+Induced tree has 584 of 2,175,510 nodes
+Executing: collapse rank='Class';select rank='Class';
+Induced tree has 584 of 2,175,510 nodes
+Induced tree has 584 of 2,175,510 nodes
+Executing: export what=CSV format=taxonName_to_count separator=tab counts=summarized file='/home/samb/analyses/20200618_metagenomics_megan_tables/abs-reads_abs-comparison_day_readsNameToCount.txt';
+Info: Wrote 26 line(s) to file: /home/samb/analyses/20200618_metagenomics_megan_tables/abs-reads_abs-comparison_day_readsNameToCount.txt
+Executing: export what=CSV format=taxonRank_to_count separator=tab counts=summarized file='/home/samb/analyses/20200618_metagenomics_megan_tables/abs-reads_abs-comparison_day_readsTaxonRankToCount.txt';
+Info: Wrote 26 line(s) to file: /home/samb/analyses/20200618_metagenomics_megan_tables/abs-reads_abs-comparison_day_readsTaxonRankToCount.txt
+Executing: export what=CSV format=taxonPath_to_count separator=tab counts=summarized file='/home/samb/analyses/20200618_metagenomics_megan_tables/abs-reads_abs-comparison_day_readsTaxonPathToCount.txt';
+Info: Wrote 26 line(s) to file: /home/samb/analyses/20200618_metagenomics_megan_tables/abs-reads_abs-comparison_day_readsTaxonPathToCount.txt
+Executing: export what=CSV format=taxonPath_to_percent separator=tab counts=summarized file='/home/samb/analyses/20200618_metagenomics_megan_tables/abs-reads_abs-comparison_day_readsTaxonPathToPercent.txt';
+Info: Wrote 26 line(s) to file: /home/samb/analyses/20200618_metagenomics_megan_tables/abs-reads_abs-comparison_day_readsTaxonPathToPercent.txt
+Executing: close what=current;
+Executing: save file='/home/samb/analyses/20200618_metagenomics_megan_tables/abs-reads_abs-comparison_Day.megan' summary=true;
+done
+Executing: show window=mainViewer;
+Executing: uncollapse nodes=selected;
+Induced tree has 585 of 2,175,510 nodes
+Induced tree has 585 of 2,175,510 nodes
+Executing: collapse rank='Class';select rank='Class';
+Induced tree has 585 of 2,175,510 nodes
+Induced tree has 585 of 2,175,510 nodes
+Executing: show window=mainViewer;
+Executing: close what=current;
+Executing: collapse rank='Class';select rank='Class';
+Induced tree has 585 of 2,175,510 nodes
+Induced tree has 585 of 2,175,510 nodes
+Using experimental comparison data access
+Executing: export what=CSV format=taxonName_to_count separator=tab counts=summarized file='/home/samb/analyses/20200618_metagenomics_megan_tables/abs-reads_abs-comparison_pH_readsNameToCount.txt';
+Info: Wrote 26 line(s) to file: /home/samb/analyses/20200618_metagenomics_megan_tables/abs-reads_abs-comparison_pH_readsNameToCount.txt
+Executing: export what=CSV format=taxonRank_to_count separator=tab counts=summarized file='/home/samb/analyses/20200618_metagenomics_megan_tables/abs-reads_abs-comparison_pH_readsTaxonPathToCount.txt';
+Info: Wrote 26 line(s) to file: /home/samb/analyses/20200618_metagenomics_megan_tables/abs-reads_abs-comparison_pH_readsTaxonPathToCount.txt
+Executing: export what=CSV format=taxonPath_to_count separator=tab counts=summarized file='/home/samb/analyses/20200618_metagenomics_megan_tables/abs-reads_abs-comparison_pH_readsTaxonPathToCount.txt';
+Info: Wrote 26 line(s) to file: /home/samb/analyses/20200618_metagenomics_megan_tables/abs-reads_abs-comparison_pH_readsTaxonPathToCount.txt
+Executing: export what=CSV format=taxonRank_to_count separator=tab counts=summarized file='/home/samb/analyses/20200618_metagenomics_megan_tables/abs-reads_abs-comparison_pH_readsTaxonRankToCount.txt';
+Info: Wrote 26 line(s) to file: /home/samb/analyses/20200618_metagenomics_megan_tables/abs-reads_abs-comparison_pH_readsTaxonRankToCount.txt
+Executing: export what=CSV format=taxonPath_to_count separator=tab counts=summarized file='/home/samb/analyses/20200618_metagenomics_megan_tables/abs-reads_abs-comparison_pH_readsTaxonPathToCount.txt';
+Info: Wrote 26 line(s) to file: /home/samb/analyses/20200618_metagenomics_megan_tables/abs-reads_abs-comparison_pH_readsTaxonPathToCount.txt
+Executing: export what=CSV format=taxonPath_to_percent separator=tab counts=summarized file='/home/samb/analyses/20200618_metagenomics_megan_tables/abs-reads_abs-comparison_pH_readsTaxonPathToPercent.txt';
+Info: Wrote 26 line(s) to file: /home/samb/analyses/20200618_metagenomics_megan_tables/abs-reads_abs-comparison_pH_readsTaxonPathToPercent.txt
+Executing: close what=current;
+Executing: quit;
+Executing: save file='/home/samb/analyses/20200618_metagenomics_megan_tables/abs-reads_abs-comparison_pH.megan' summary=true;
+done
+Induced tree has 2,175,510 of 2,175,510 nodes
+Executing: open file='/home/samb/analyses/20200618_metagenomics_megan_tables/abs-reads_abs-comparison_pH.megan';
+Loading MEGAN File: abs-reads_abs-comparison_pH.megan
+Info: Opened file 'abs-reads_abs-comparison_pH.megan' with 466,024,064 reads
+Induced tree has 585 of 2,175,510 nodes
+Induced tree has 585 of 2,175,510 nodes
+Executing: show window=samplesViewer;
+Executing: compareBy attribute='pH' mode=absolute samples='Library_Geoduck_MG_1_S3_L002_R1' 'Library_Geoduck_MG_2_S4_L002_R1' 'Library_Geoduck_MG_5_S6_L002_R1' 'Library_Geoduck_MG_3_S1_L002_R1' 'Library_Geoduck_MG_6_S5_L002_R1' 'Library_Geoduck_MG_7_S2_L002_R1';
+Info: Wrote 463,244,160 reads to file '/home/samb/analyses/20200618_metagenomics_megan_tables/abs-reads_abs-comparison_pH-pH.megan'
+Executing: update reprocess=true reinduce=true;
+Induced tree has 584 of 2,175,510 nodes
+Induced tree has 584 of 2,175,510 nodes
+Executing: uncollapse nodes=selected;
+Induced tree has 584 of 2,175,510 nodes
+Induced tree has 584 of 2,175,510 nodes
+Executing: collapse rank='Class';select rank='Class';
+Induced tree has 584 of 2,175,510 nodes
+Induced tree has 584 of 2,175,510 nodes
+Save canceled
+Executing: export what=CSV format=taxonPath_to_count separator=tab counts=summarized file='/home/samb/analyses/20200618_metagenomics_megan_tables/abs-reads_abs-comparison_pH_readsTaxonPathToCount.txt';
+Info: Wrote 26 line(s) to file: /home/samb/analyses/20200618_metagenomics_megan_tables/abs-reads_abs-comparison_pH_readsTaxonPathToCount.txt
+Executing: export what=CSV format=taxonPath_to_percent separator=tab counts=summarized file='/home/samb/analyses/20200618_metagenomics_megan_tables/abs-reads_abs-comparison_pH_readsTaxonPathToPercent.txt';
+Info: Wrote 26 line(s) to file: /home/samb/analyses/20200618_metagenomics_megan_tables/abs-reads_abs-comparison_pH_readsTaxonPathToPercent.txt
+Executing: close what=current;
